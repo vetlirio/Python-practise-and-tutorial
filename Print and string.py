@@ -1,0 +1,7 @@
+print("Im using the function called print")
+print("If I where to put capital P for Print, python would not be able to recognize the function print, Python is cap sensitive.")
+print("Quotation marks are also important or it woundt know its a string, but think its a function.")
+print("A string is just cool word for words and sentences really, as long as its a string of letters, numbers, symbols, spaces in quotation - its a string.")
+print("A string is just a piece of text. Even 123 in quotation marks is just a piece of text, not a number. Singel or dobbel quotation marks are approved in Python")
+print("Is saving working?")
+print("Yes, it is. Just press save or if you press run script, it savs automaticly")
